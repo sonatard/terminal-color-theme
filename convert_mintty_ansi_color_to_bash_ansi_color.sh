@@ -17,7 +17,7 @@ do
 	COLOR_HEX=${COLOR_SET[1]}
 	
 	echo "echo -ne '\e]${BASH_CODE[$COLOR_NAME]};$COLOR_HEX\a'"
-    # else
-    #   	echo $LINE
+    else
+       	echo $LINE
     fi
 done<$1
