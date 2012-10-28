@@ -4,3 +4,12 @@
 [submodule "color-theme-zenburn"]
 	path = color-theme-zenburn
 	url = http://github.com/sona-tar/color-theme-zenburn.git
+[submodule "color-theme-ir_black"]
+	path = color-theme-ir_black
+	url = http://github.com/sona-tar/color-theme-ir_black
+[submodule "color-theme-molokai"]
+	path = color-theme-molokai
+	url = http://github.com/sona-tar/color-theme-molokai
+[submodule "color-theme-ambiance"]
+	path = color-theme-ambiance
+	url = http://github.com/sona-tar/color-theme-ambiance
