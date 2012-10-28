@@ -1,0 +1,3 @@
+[submodule "color-theme-tangotango"]
+	path = color-theme-tangotango
+	url = git://github.com/sona-tar/color-theme-tangotango.git
