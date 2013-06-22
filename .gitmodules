@@ -1,15 +1,15 @@
 [submodule "color-theme-tangotango"]
 	path = color-theme-tangotango
-	url = git://github.com/sona-tar/color-theme-tangotango.git
+	url = https://github.com/sona-tar/color-theme-tangotango.git
 [submodule "color-theme-zenburn"]
 	path = color-theme-zenburn
-	url = http://github.com/sona-tar/color-theme-zenburn.git
+	url = https://github.com/sona-tar/color-theme-zenburn.git
 [submodule "color-theme-ir_black"]
 	path = color-theme-ir_black
-	url = http://github.com/sona-tar/color-theme-ir_black
+	url = https://github.com/sona-tar/color-theme-ir_black
 [submodule "color-theme-molokai"]
 	path = color-theme-molokai
-	url = http://github.com/sona-tar/color-theme-molokai
+	url = https://github.com/sona-tar/color-theme-molokai
 [submodule "color-theme-ambiance"]
 	path = color-theme-ambiance
-	url = http://github.com/sona-tar/color-theme-ambiance
+	url = https://github.com/sona-tar/color-theme-ambiance
