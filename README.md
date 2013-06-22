@@ -16,7 +16,7 @@ echo "terminal-color-theme/random_color-theme.sh" >> ~/.bashrc
 ```
 
 
-# if you can make new color-theme
+# if you make new color-theme
 ## convert_mintty_ansi_color_to_bash_ansi_color.sh
 convert .minttyrc to sh
 ```sh
