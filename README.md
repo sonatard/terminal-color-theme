@@ -4,6 +4,21 @@ terminal-color-theme
 change default ANSI Color 
 
 # Usage
+## 256 color
+```sh
+vi ~/.bashrc
+```
+add TERM
+```diff
+TERM=xterm-256color
+```
+```sh
+source ~/.bashrc
+echo $TERM
+cd terminal-color-theme
+perl 256colors2.pl
+```
+
 ## random_color-theme.sh
 select color-theme at random. 
 ```sh
