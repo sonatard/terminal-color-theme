@@ -4,7 +4,15 @@ terminal-color-theme
 change default ANSI Color 
 
 # Usage
-## 256 color
+## change color-theme
+```
+git clone --recursive https://github.com/sona-tar/terminal-color-theme.git
+cd terminal-color-theme
+COLOR_THEME=zenburn
+source color-theme-${COLOR_THEME}/${COLOR_THEME}.sh
+```
+
+## 256 color setting
 ```sh
 vi ~/.bashrc
 ```
